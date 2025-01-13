@@ -49,9 +49,9 @@ tenacity = "^8.2.2"
 tiktoken = "^0.4.0"
 toml = "^0.10.2"
 pydantic = "^1.10.9"
-tornado = "^6.3.3"
+tornado = "^6.4.2"
 asyncio = "^3.4.3"
-aiohttp = "^3.8.5"
+aiohttp = "^3.10.11"
 click = "^8.1.7"
 
 
